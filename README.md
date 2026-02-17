@@ -1,5 +1,4 @@
-## Hi there 👋
-
+![](https://64.media.tumblr.com/f61bd70a3717289b54d51a28aaceff2c/c98069990abc1af7-7a/s2048x3072/188afe80162d00bdb3bd6b5c9d78a7615712cdfd.pnj)
 <!--
 **sonexe/sonexe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
